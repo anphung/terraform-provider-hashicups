@@ -34,4 +34,4 @@ provider "hashicups" {
 
 - **username** (String, Optional) Username to authenticate to HashiCups API
 - **password** (String, Optional) Password to authenticate to HashiCups API
-- **host** (String, Optional) HashiCups API address (defaults to `localhost:19090`)
+- **host** (String, Optional) HashiCups API address (defaults to `http://localhost:19090`)
